@@ -1473,5 +1473,4 @@ Extra: 	->	In Git, "diverged" means that two branches (usually your local branch
 //commit_61_added_in_branch_main
 //commit_62_added_in_branch_dev4
 //commit_63_added_in_branch_main
-//commit_64_added_in_branch_dev4
-//it should be visible when applying a patch
+//commit_64_added_in_branch_main
