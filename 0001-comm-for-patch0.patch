@@ -1,0 +1,21 @@
+From f6d3f2455966158d113f56f142882ae29c035eee Mon Sep 17 00:00:00 2001
+From: "chinmay.shah" <chinmay.shah@acldigital.com>
+Date: Fri, 3 Jul 2026 15:48:44 +0530
+Subject: [PATCH] comm for patch0
+
+---
+ git_commands.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/git_commands.c b/git_commands.c
+index b73494d..28e50a2 100644
+--- a/git_commands.c
++++ b/git_commands.c
+@@ -1474,3 +1474,4 @@ Extra: 	->	In Git, "diverged" means that two branches (usually your local branch
+ //commit_62_added_in_branch_dev4
+ //commit_63_added_in_branch_main
+ //commit_64_added_in_branch_main
++//it should be visible when applying patch0
+-- 
+2.49.0.windows.1
+
