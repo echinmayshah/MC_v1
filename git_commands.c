@@ -1491,3 +1491,4 @@ Extra: 	->	In Git, "diverged" means that two branches (usually your local branch
 					//79
 //80
 //82
+//added from teamMate
