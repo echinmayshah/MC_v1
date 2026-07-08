@@ -30,7 +30,11 @@ Difference between $git fetch origin & $git pull origin main & $git pull --rebas
 	2. git pull origin main: Downloads cloud updates and automatically merges them into your local file system, often creating a 3-way merge commit.
 	3. git pull --rebase origin main: Downloads cloud updates and re-roots your local work on top of those updates, keeping your timeline completely straight
 
-$git pull origin main vs $git pull origin
-	$git pull origin main: 		Merges main into your currently checked-out branch (even if you are not on main).
-	$git pull origin:		 	Only merges the tracking counterpart of your current branch. 
-								Safely updates your active branch.
+
+
+
+
+
+1. $git fetch origin, 
+2. $git pull origin main & 
+3. $git pull --rebase origin main 
